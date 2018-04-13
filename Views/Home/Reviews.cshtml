@@ -1,0 +1,17 @@
+﻿@model RESTauranter.Models.Reviewer
+
+@foreach(var review in @ViewBag.Reviewers)
+{   <div class="row">
+        <div class="col">
+            <h3>Review for: @review.Restaurant<span class="ml-2"> star @review.Rating</span></h3>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h4>Reviewer: @review.Name, @review.VisitDate.ToString("MMM dd, yyyy")</h4>
+        </div>
+    </div>
+    <p>@review.Review</p><br><span class="border-bottom"></span>
+}
+
+

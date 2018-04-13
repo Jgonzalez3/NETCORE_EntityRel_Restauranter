@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\bin\Debug\netcoreapp2.0\RESTauranter.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\ORM\RESTauranter\obj\Debug\netcoreapp2.0\RESTauranter.pdb

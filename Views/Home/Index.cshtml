@@ -1,0 +1,45 @@
+﻿@model RESTauranter.Models.Reviewer
+
+<div class="row">
+    <div class="col">
+        <h1>Write a new Review:</h1>
+        <form asp-controller="Home" asp-action="addreview" method="POST">
+            <div class="row">
+                <div class="col">
+                    <p>Reviewer Name: <input type="text" name="name"><span asp-validation-for="Name"></span></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p>Restaurant Name: <input type="text" name="restaurant"><span asp-validation-for="Restaurant"></span></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p>Review: <input type="text" name="review"><span asp-validation-for="Review"></span></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p>Date of Visit: <input type="date" name="visitdate"><span asp-validation-for="VisitDate"></span>@TempData["futuredate"]</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <p>Stars: <select name="rating">
+                        <option value=1>1</option>
+                        <option value=2>2</option>
+                        <option value=3>3</option>
+                        <option value=4>4</option>
+                        <option value=5>5</option>
+                    </select></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <button>Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
